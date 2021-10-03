@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    min-width: 400px;
+}
+#input-el{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #5f9341;
+    border-radius: 5px;
+}
+#input-btn,#tab-btn{
+    background-color: #5f9341;
+    border: none;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+ul{
+    padding: 0;
+    line-height: 30px;
+
+
+}
+li{
+    list-style: none;
+
+}
+li a{
+    color: #5f9341;
+    font-weight: 700;
+
+}
+#del-btn{
+    background-color: white;
+    border: 1px solid #5f9341;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    color: #5f9341;
+    cursor: pointer;
+    font-weight: bold;
+}
